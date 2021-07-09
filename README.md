@@ -1,7 +1,3 @@
-![Screenshot_20210709-184439](https://user-images.githubusercontent.com/74085170/125084075-bf35b500-e0e6-11eb-89df-cbe9df03516c.png)
-![Screenshot_20210709-184447](https://user-images.githubusercontent.com/74085170/125084082-c1980f00-e0e6-11eb-93b2-fff69b315cc2.png)
-![Screenshot_20210709-184552](https://user-images.githubusercontent.com/74085170/125084091-c2c93c00-e0e6-11eb-84b1-49784c85fe1f.png)
-![Screenshot_20210709-184831](https://user-images.githubusercontent.com/74085170/125084138-d1afee80-e0e6-11eb-9f53-cb2a04aeb870.png)
 # FSW_PRO_2
 VDP Solution project done during the internship at IC Solution in associate with Take it easy engineering.
 
@@ -53,3 +49,7 @@ Project Requirement:
 ![Screenshot (644)](https://user-images.githubusercontent.com/74085170/125083336-e17b0300-e0e5-11eb-9a26-d495dc6c49cf.png)
 ![Screenshot (645)](https://user-images.githubusercontent.com/74085170/125083352-e770e400-e0e5-11eb-9938-b298a33ec8b7.png)
 ![Screenshot (646)](https://user-images.githubusercontent.com/74085170/125083380-f2c40f80-e0e5-11eb-84d8-930fc66930dd.png)
+![Screenshot_20210709-184439](https://user-images.githubusercontent.com/74085170/125084075-bf35b500-e0e6-11eb-89df-cbe9df03516c.png)
+![Screenshot_20210709-184447](https://user-images.githubusercontent.com/74085170/125084082-c1980f00-e0e6-11eb-93b2-fff69b315cc2.png)
+![Screenshot_20210709-184552](https://user-images.githubusercontent.com/74085170/125084091-c2c93c00-e0e6-11eb-84b1-49784c85fe1f.png)
+![Screenshot_20210709-184831](https://user-images.githubusercontent.com/74085170/125084138-d1afee80-e0e6-11eb-9f53-cb2a04aeb870.png)
